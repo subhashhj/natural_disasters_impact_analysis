@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS disasters (
+    disaster_number INTEGER PRIMARY KEY,
+    historic BOOLEAN NOT NULL,
+    classification_key TEXT NOT NULL,
+    disaster_group TEXT NOT NULL,
+    disaster_subgroup TEXT NOT NULL,
+    disaster_type TEXT NOT NULL,
+    disaster_subtype TEXT,
+    origin TEXT,
+    associated_types TEXT,
+    ofda_bha_response BOOLEAN NOT NULL,
+    appeal BOOLEAN NOT NULL,
+    declaration BOOLEAN NOT NULL,
+    magnitude REAL,
+    magnitude_scale TEXT,
+    start_date DATETIME NOT NULL,
+    end_date DATETIME NOT NULL,
+    entry_date DATETIME NOT NULL,
+    last_update DATETIME NOT NULL
+);

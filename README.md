@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 Natural Disasters Impact Analysis
 📊 **Analyzing the socio-economic impact of natural disasters using data engineering & visualization**
 
@@ -29,3 +30,6 @@ This project explores historical natural disaster data, identifying trends, seve
 - [EM-DAT: International Disaster Database](https://www.emdat.be/)
 
 ---
+=======
+# Natural Disasters Impact Analysis
+>>>>>>> 905faf8 (Initial commit - Natural Disasters Proejct)
