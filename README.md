@@ -23,7 +23,7 @@ This project explores historical natural disaster data, identifying trends, seve
 ✔️ Infrastructure plays a major role in minimizing human casualties.  
 
 ## 📊 Interactive Dashboard
-🔗 [Tableau Visualization](#) *(Insert your Tableau Public link here.)*
+🔗 [Tableau Visualization](#) *(https://public.tableau.com/views/VisualizationsonnaturaldisastersdatainAsiancontinentincludingsocio-economicimpacts_2000-2024/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 ## 📜 References
 - [NOAA Storm Events Database](https://www.ncdc.noaa.gov/stormevents/)
