@@ -7,7 +7,7 @@ This project explores historical natural disaster data, identifying trends, seve
 
 ## 📂 Project Structure
 📁 `data/` - Raw & processed datasets  
-📁 `notebooks/` - Python & SQL scripts for analysis  
+📁 `notebooks/` - Python scripts for analysis  
 📁 `visualizations/` - Tableau dashboards & plots  
 📁 `report/` - Final project report  
 
